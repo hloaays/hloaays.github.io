@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hloaays.github.io/sitemap.hloaays.gz
+Sitemap: https://hloaays.github.io/app/sitemap.hloaays.gz
+Sitemap: https://hloaays.github.io/assets/sitemap.hloaays.gz
+Sitemap: https://hloaays.github.io/css/sitemap.hloaays.gz
+Sitemap: https://hloaays.github.io/data/sitemap.hloaays.gz
+Sitemap: https://hloaays.github.io/includes/sitemap.hloaays.gz
+Sitemap: https://hloaays.github.io/item/sitemap.hloaays.gz
+Sitemap: https://hloaays.github.io/src/sitemap.hloaays.gz
